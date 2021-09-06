@@ -9,7 +9,7 @@
 
     <muxc:NavigationView x:Name="MainNavigationView"
                          ItemInvoked="MainNavigationView_ItemInvoked" 
-                         IsSettingsVisible="false"
+                         IsSettingsVisible="true"
                          PaneDisplayMode="LeftCompact"
                          IsBackButtonVisible="Collapsed"                        
                          Loaded="MainNavigationView_Loaded">
